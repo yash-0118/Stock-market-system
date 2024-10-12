@@ -1,0 +1,1 @@
+NVDA;NVIDIA Corporation;700.0;3
